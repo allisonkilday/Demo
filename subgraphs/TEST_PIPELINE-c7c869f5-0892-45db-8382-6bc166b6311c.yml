@@ -1,10 +1,5 @@
 fileVersion: 1
 id: c7c869f5-0892-45db-8382-6bc166b6311c
 name: TEST_PIPELINE
-steps:
-  - 0839ee64-7202-45e5-90ae-db5ec700ddb4
-  - 2170c4fe-71e5-4cad-ad3c-7fa27f2415ae
-  - 5243425a-36da-4a47-b430-3ada1666c182
-  - 6fa671f5-74bd-4869-bd67-c458236b6bc3
-  - f921a8ba-4f2c-4da2-aa84-4ab2f2f29e9d
+steps: []
 type: Subgraph
